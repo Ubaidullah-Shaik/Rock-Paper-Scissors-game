@@ -543,6 +543,11 @@ header.header{
     .btn:hover{
         color: hsl(349, 71%, 52%);
     }
+    .name{
+        color: #eee;
+        font-size: 1rem;
+        font-weight: 700;
+    }
     @keyframes smoothGrowing1 {
         0%{
             width: 0;
